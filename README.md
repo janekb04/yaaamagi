@@ -55,6 +55,6 @@ The current implementation sends the AI's commands to an iTerm2 terminal window.
 
 ## Ethical, legal and safety considerations
 
-I will let GPT-4 speak for itself:
+I will let GPT-4 [speak for itself](https://youtu.be/8bepzUM1x3w?t=168):
 
 > This project is for educational purposes only. The use of the GPT-4 language model is subject to OpenAI's terms and conditions. Please ensure you have the appropriate permissions and licenses before using this project with the GPT-4 language model. Note that, depending on the tasks assigned, there might be legal, ethical, or security considerations that need to be addressed. Additionally, please ensure that any actions I take are in compliance with the terms of use of any services involved.
