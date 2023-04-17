@@ -13,7 +13,7 @@
 
 ![GPT-4 writing in terminal](hero.png)
 
-## Yet Another Attempt At Making An AGI
+## Yet Another Attempt At Making Artificial General Intelligence
 
 Right now, this repo is a result of me thinking for some time about how an AGI could be created using large language models. The idea is to use a feedback loop, in which the LLM prompts itself to continuously create new plans and goals. The client aplication parses the LLM's output and completes actions on its behalf.
 
